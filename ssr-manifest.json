@@ -1425,7 +1425,7 @@
     "/assets/xb_zar-webfont.2a48e1a1.ttf",
     "/assets/xb_zar-webfont.dd9dc5f8.svg"
   ],
-  "assets/app.732dc4a4.js-unocss-hash.css": [
+  "assets/app.b7bec90d.js-unocss-hash.css": [
     "/assets/LPMQ.b0927593.ttf",
     "/assets/me_quran-webfont.a18b69fb.eot",
     "/assets/me_quran-webfont.25348f7b.woff",
@@ -1455,12 +1455,12 @@
     "/assets/virtual_pwa-register.c6d71602.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404.c7f44e8c.js"
+    "/assets/404.a456df2c.js"
   ],
   "src/layouts/404.vue": [
-    "/assets/404.c7f44e8c.js"
+    "/assets/404.a456df2c.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.cc57072b.js"
+    "/assets/home.49a77bd0.js"
   ]
 }
